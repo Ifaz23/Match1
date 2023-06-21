@@ -1,0 +1,240 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+
+  .B1{
+    background-image: url(Images/BG.jpg);
+    color: white;
+  }
+
+  /* offers design */
+
+  .ocf{
+    border: solid;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    padding: 5%;
+  }
+  .Op{
+    text-align: center;
+  }
+
+  .op1{
+    margin: 5%;
+  }
+
+  .ob{
+    margin: 5%;
+    background-color: #353637;
+    color: white;
+  }
+
+  /* Home Design */
+
+  h1{
+    text-align: center;
+    padding: 5%;
+  }
+
+  .SH1{
+    padding: 5%;
+  }
+
+  .SH2{
+    border-right: solid;
+    border-left: solid;
+  }
+
+  .HR{
+    border-top: solid;
+  }
+
+  /* NEws Design */
+
+  .News1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+  }
+
+  .NC{
+    border: solid;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  /* Versions design */
+
+  .V{
+    border: solid;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  .V1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .V2{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-bottom: 5%;
+  }
+
+  #VB1{
+    background-color: #353637;
+    color: white;
+  }
+
+  #VB2{
+    background-color: #fff;
+    color: black;
+  }
+
+  .Vtext{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: center;
+    padding-bottom: 5%;
+  }
+  
+  /* Index Design */
+
+  .chead{
+    text-align: center;
+  }
+
+  .IB{
+    background-color: #353637;
+    color: white;
+  }
+
+  .zoom2{
+    margin: 5%;
+  }
+
+  .zoom{
+    text-align: center;
+    padding: 5%;
+  }
+
+  #MiC7{
+    height: 100%;
+    width: 100%;
+  }
+
+  .mi11u{
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .mi11u2{
+    position: relative;
+    text-align: left;
+    color: white;
+  }
+
+  .mi11u3{
+    position: relative;
+    text-align: right;
+    color: white;
+  }
+
+  .centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+  }
+
+  .topleft{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+
+  .bottomright{
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+  }
+
+  
+
+  /* manual design */
+  
+  .one{
+    background-color: black;
+    border-right: solid;
+    border-left: solid;
+    border-width: 5px;
+    border-color: white;
+  }
+
+  .RM{
+      padding: 50px;
+      border-bottom: solid;
+      border-top: solid;
+      border-width: 5px;
+      border-color: white;
+      border-bottom-color: black;
+  }
+
+  .RM1{
+    padding: 50px;
+      border-bottom: solid;
+      border-top: solid;
+      border-width: 5px;
+      
+  }
+
+  .RM2{
+    padding: 50px;
+      border-bottom: solid;
+      border-top: solid;
+      border-width: 5px;
+      
+  }
+
+  .CM{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .HM{
+    text-align: center;  
+  }
+  .PM{
+      text-align: center;
+  }
+
+  /* Specs Design */
+  .row1{
+    border-bottom: solid;
+    border-width: 3px;
+    padding: 5%;
+  }
+
+  
+
+  .foot{
+    color: white;
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+
+.feet{
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+}
